@@ -20,4 +20,4 @@ if (isset($_POST["create"])){
     echo "<script>document.getElementById('create').style.visibility = 'hidden';</script>";
 }
 
-//módosítás
+//módosítás ismét
